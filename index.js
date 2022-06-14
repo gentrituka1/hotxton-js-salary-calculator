@@ -1,7 +1,7 @@
 let salary = 500;
 let employeeCont = salary * (5 / 100);
 let taxedSalary = salary - employeeCont;
-let range = 0;
+
 let taxUnder80 = (80 - 0) * (0/ 100);
 let taxUnder250 = (250-80) * (4 / 100);
 let taxUnder450 = (450-250) * (8 / 100);
